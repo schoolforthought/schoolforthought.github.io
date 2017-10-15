@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Here is a post"
-date:   2017-10-14 19:28:37 +0100
+title:  "Here is a post for Edith"
+date:   2017-10-15 19:28:37 +0100
 # categories: Announcements
 ---
 
