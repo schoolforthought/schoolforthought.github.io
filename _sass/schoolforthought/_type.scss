@@ -11,18 +11,22 @@ h1, h2, h3, h4, h5, h6, .site-title {
 
 h1 {
   font-family: 'Special Elite', sans-serif;
-  font-size: 2rem;
+  font-size: 1.5rem;
   padding: 0;
   margin: 0;
 }
 
+.site-title {
+  font-size: 1.5rem;
+}
+
 .post-title, .page-title {
-  font-size: 2rem;
+  font-size: 1.5rem;
   padding-bottom: 1.5rem;
 }
 
 h2 {
-  font-size: 1.25rem;
+  font-size: 1rem;
   padding-bottom: 1rem;
   margin: 0;
 }
