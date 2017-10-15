@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ec084ef-e14b-40c3-a6c8-ba8907876578" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/jekyll/update/2017/10/14/welcome-to-jekyll.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/post-meta.html" afterPath="$PROJECT_DIR$/_includes/post-meta.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-14-welcome-to-jekyll.markdown" afterPath="$PROJECT_DIR$/_posts/2017-10-14-welcome-to-jekyll.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/schoolforthought/_base.scss" afterPath="$PROJECT_DIR$/_sass/schoolforthought/_base.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/schoolforthought/_layout.scss" afterPath="$PROJECT_DIR$/_sass/schoolforthought/_layout.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/schoolforthought/_posts.scss" afterPath="$PROJECT_DIR$/_sass/schoolforthought/_posts.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/schoolforthought/_type.scss" afterPath="$PROJECT_DIR$/_sass/schoolforthought/_type.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/schoolforthought/_variables.scss" afterPath="$PROJECT_DIR$/_sass/schoolforthought/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/copyright.html" afterPath="$PROJECT_DIR$/_includes/copyright.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/404.html" afterPath="$PROJECT_DIR$/_site/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/README.md" afterPath="$PROJECT_DIR$/_site/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about/index.html" afterPath="$PROJECT_DIR$/_site/about/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/assets/css/main.css" afterPath="$PROJECT_DIR$/_site/assets/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.scss" afterPath="$PROJECT_DIR$/assets/css/main.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -61,7 +48,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-10-14-welcome-to-jekyll.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-10-14-welcome-to-jekyll.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-14-welcome-to-jekyll.markdown">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="572">
@@ -104,35 +91,29 @@
       <file leaf-file-name="sidebar.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="80" lean-forward="false" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="80" />
+            <state relative-caret-position="418">
+              <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="246">
-                <caret line="106" column="13" lean-forward="false" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="31" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="custom-foot.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/custom-foot.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="88">
-                <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="copyright.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/copyright.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="57" lean-forward="false" selection-start-line="1" selection-start-column="57" selection-end-line="1" selection-end-column="57" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -180,6 +161,7 @@
         <option value="$PROJECT_DIR$/_sass/schoolforthought/_type.scss" />
         <option value="$PROJECT_DIR$/_sass/schoolforthought/_layout.scss" />
         <option value="$PROJECT_DIR$/_posts/2017-10-14-welcome-to-jekyll.markdown" />
+        <option value="$PROJECT_DIR$/_includes/copyright.html" />
       </list>
     </option>
   </component>
@@ -380,7 +362,7 @@
       <option name="presentableId" value="Default" />
       <updated>1508006309029</updated>
       <workItem from="1508006310525" duration="3307000" />
-      <workItem from="1508079615583" duration="3024000" />
+      <workItem from="1508079615583" duration="3530000" />
     </task>
     <task id="LOCAL-00001" summary="come on jekyll">
       <created>1508008289839</created>
@@ -417,11 +399,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508080081902</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="favicon and fonts">
+      <created>1508086614602</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1508086614602</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6331000" />
+    <option name="totallyTimeSpent" value="6837000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1670" height="1412" extended-state="0" />
@@ -497,7 +486,8 @@
     <MESSAGE value="font" />
     <MESSAGE value="favicon" />
     <MESSAGE value="ditch old scss and create custom" />
-    <option name="LAST_COMMIT_MESSAGE" value="ditch old scss and create custom" />
+    <MESSAGE value="favicon and fonts" />
+    <option name="LAST_COMMIT_MESSAGE" value="favicon and fonts" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -794,14 +784,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="80" lean-forward="false" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="80" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/schoolforthought/_type.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -822,6 +804,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
           <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/custom-foot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/copyright.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="57" lean-forward="false" selection-start-line="1" selection-start-column="57" selection-end-line="1" selection-end-column="57" />
           <folding />
         </state>
       </provider>
