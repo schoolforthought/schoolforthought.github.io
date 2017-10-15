@@ -15,9 +15,9 @@ body {
 }
 
 html {
-  font-family: $root-font-family;
-  font-size: $root-font-size;
-  line-height: $root-line-height;
+  font-family: 'Cutive Mono', courier, "Courier New", Helvetica;
+  font-size:   1rem;
+  line-height: 1.5rem;
 
   @media (min-width: $large-breakpoint) {
     font-size: $large-font-size;

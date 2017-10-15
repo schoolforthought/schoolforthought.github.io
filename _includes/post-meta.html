@@ -10,6 +10,7 @@
         it and linking for all categories (or no categories) if this
         site has a lot of pages and/or a lot of categories.
       {% endcomment %}
+
       {% assign category_page = false %}
       {% for node in site.pages %}
         {% if node.category == category or node.title == category %}
