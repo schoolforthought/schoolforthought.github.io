@@ -1,0 +1,51 @@
+$gray-1: #f9f9f9;
+$gray-2: #e5e5e5;
+$gray-3: #ccc   ;
+$gray-4: #767676;
+$gray-5: #515151;
+$gray-6: #313131;
+
+$red:     #ac4142;
+$orange:  #d28445;
+$yellow:  #f4bf75;
+$green:   #90a959;
+$cyan:    #75b5aa;
+$blue:    #268bd2;
+$brown:   #8f5536;
+
+$root-font-family: 'Cutive Mono', courier, "Courier New", Helvetica;
+$root-font-size:   1rem;
+$root-line-height: 1.5;
+
+$body-color:     $gray-5;
+$body-muted:     $gray-4;
+$body-bg:        #fff;
+$link-color:     $blue;
+$heading-color:  $gray-6;
+
+$border-color:     $gray-2;
+$border-radius:    300px;
+$padding-v:        1em;
+$padding-h:        1.5em;
+$heading-spacing:  0.5rem;
+$section-spacing:  2rem;
+$sidebar-width:    18rem;
+
+$large-breakpoint: 49rem;
+$large-font-size:  1.25rem;
+
+$box-shadow-size:    1px;
+$box-shadow-opacity: 0.16;
+$default-box-shadow: $box-shadow-size
+                     $box-shadow-size
+                     $box-shadow-size
+                     rgba(0, 0, 0, $box-shadow-opacity);
+
+$code-font-family:   Menlo, Monaco, "Courier New", monospace;
+$code-color:         #bf616a;
+
+// Hyde theming
+
+$sidebar-bg-color:   #202020;
+$sidebar-sticky:     true;
+$layout-reverse:     false;
