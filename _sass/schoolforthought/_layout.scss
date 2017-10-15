@@ -55,7 +55,6 @@ body {
   }
 }
 
-// Container is flexbox as well -- we want content div to stretch and fill
 .container {
   flex: 1 1 auto;
   display: flex;
@@ -77,15 +76,12 @@ body {
   Mobile view
 ----------------------------------------------------------- */
 
-// Hide secondary nav content in sidebar
-// Hide lead paragraph in sidebar
 #sidebar {
   header ~ *, header ~ nav, p.lead {
     display: none;
   }
 }
 
-// Make header elements blend into sidebar / background
 .container > header {
   background: transparent;
   color: white;
@@ -95,10 +91,6 @@ body {
 
   h1, h2 {
     color: white;
-
-    &:last-child {
-      //margin-bottom: 0;
-    }
   }
 }
 
@@ -109,16 +101,13 @@ body {
 
 .home #sidebar {
 
-  // Center sidebar content
   text-align: center;
 
-  // Bigger title
   .site-title {
     font-size: 3.25rem;
     color: white;
   }
 
-  // Show secondary nav content + lead
   header ~ *, p.lead {
     display: block;
   }
@@ -129,8 +118,6 @@ body {
     }
   }
 
-  // Slightly more bottom padding to compensate for heading not match 100% of
-  // line-height on top
   > *:last-child {
     margin-bottom: 0.5rem;
   }
@@ -148,8 +135,6 @@ body {
     overflow: auto;
     > * { max-height: 100vh; overflow: auto; }
   }
-
-  /* Undo mobile CSS */
 
   #sidebar, .home #sidebar {
     width: $sidebar-width;
@@ -179,7 +164,6 @@ body {
 
   .index #sidebar { margin-bottom: 0; }
 
-  // Make entire container background white to contrast against sidebar
   .container {
     background: $body-bg;
     color: $body-color;
@@ -191,10 +175,6 @@ body {
       margin: 0;
       h1, h2 {
         color: inherit;
-
-        &:last-child {
-          //margin-bottom: $heading-spacing;
-        }
       }
     }
 
